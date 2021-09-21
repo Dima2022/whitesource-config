@@ -1,7 +1,7 @@
 {
   "scanSettings": {
     "configMode": "EXTERNAL",
-    "configExternalURL": "https://github.com/Dima2021/whitesource-config/blob/master/wss-unified-agent.config",
+    "configExternalURL": "https://raw.githubusercontent.com/Dima2022/whitesource-config/main/wss-unified-agent.config",
     "baseBranches": []
   },
   "checkRunSettings": {
