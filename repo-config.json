@@ -1,7 +1,7 @@
 {
   "scanSettings": {
     "configMode": "EXTERNAL",
-    "configExternalURL": "https://github.com/Dima2022/whitesource-config/whitesource.config",
+    "configExternalURL": "https://github.com/Dima2022/whitesource-config/blob/main/whitesource.config",
     "baseBranches": []
   },
   "checkRunSettings": {
