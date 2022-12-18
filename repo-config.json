@@ -9,7 +9,8 @@
     "displayMode": "diff"
   },
   "issueSettings": {
-    "minSeverityLevel": "LOW"
+    "minSeverityLevel": "LOW",
+    "issueType": "DEPENDENCY"
   },
   "remediateSettings": {
     "workflowRules": {
