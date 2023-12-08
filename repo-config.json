@@ -5,6 +5,7 @@
     "baseBranches": []
   },
   "checkRunSettings": {
+    "useMendCheckNames": true,
     "vulnerableCheckRunConclusionLevel": "failure",
     "displayMode": "diff"
   },
