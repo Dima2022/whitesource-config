@@ -18,9 +18,5 @@
       "enabled": true,
       "minVulnerabilitySeverity": "LOW"
     }
-  },
-  "issueSettingsSAST": {
-    "minSeverityLevel": "low",
-    "issueType": "repo"
   }
 }
