@@ -1,0 +1,26 @@
+{
+  "scanSettings": {
+    "configMode": "EXTERNAL",
+    "configExternalURL": "https://raw.githubusercontent.com/Dima2022/whitesource-config/main/whitesource.config",
+    "baseBranches": []
+  },
+  "checkRunSettings": {
+    "vulnerableCheckRunConclusionLevel": "failure",
+    "displayMode": "diff",
+    "useMendCheckNames": true
+  },
+  "issueSettings": {
+    "minSeverityLevel": "LOW",
+    "issueType": "DEPENDENCY"
+  },
+  "remediateSettings": {
+    "workflowRules": {
+      "enabled": true,
+      "minVulnerabilitySeverity": "LOW"
+    }
+  },
+  "issueSettingsSAST": {
+    "minSeverityLevel": "low",
+    "issueType": "finding"
+  }
+}
